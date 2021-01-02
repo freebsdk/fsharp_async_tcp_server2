@@ -1,4 +1,3 @@
-// From c# example on https://docs.microsoft.com/ko-kr/dotnet/framework/network-programming/asynchronous-server-socket-example
 namespace AsyncTcpServer
 
 open System
