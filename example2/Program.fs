@@ -1,4 +1,6 @@
-﻿open System
+﻿// Original C# source code : https://docs.microsoft.com/ko-kr/dotnet/framework/network-programming/asynchronous-server-socket-example
+// The entire C# code has been ported to F# by freebsdk 
+open System
 open AsyncTcpServer
 
 

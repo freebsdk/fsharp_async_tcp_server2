@@ -1,4 +1,6 @@
-﻿open System
+﻿// Original source : http://www.fssnip.net/1E/title/Async-TCP-Server
+// Some code has been modified due to type issues by freebsdk
+open System
 open System.Net
 open System.Net.Sockets
 open System.Threading
